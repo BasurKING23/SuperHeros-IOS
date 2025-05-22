@@ -7,15 +7,6 @@
 
 import UIKit
 
-//
-//  ViewController.swift
-//  SuperheroLeague-iOS
-//
-//  Created by Mañanas on 20/5/25.
-//
-
-import UIKit
-
 class ListViewController: UIViewController, UITableViewDataSource, UISearchBarDelegate {
     
     @IBOutlet weak var tableView: UITableView!
